@@ -268,9 +268,9 @@ const experience = {
           company_url: "https://infosys.com/",
           logo_path: "Infosys_logo.png",
           duration: "Sept 2021 - PRESENT",
-          location: "Maysore, Karnataka",
+          location: "Mysore, Karnataka",
           description:
-            "I am working with AGCO domain. I have trained in basic computer technology also in OOPs concept, MySQL, C# as Major Programming Language. We are also trained in web Technologies such as HTML,CSS,Bootstrap and EF Core,Angular Framework, Rest APIs",
+            "I am working with AGCO domain. I have been trained on basic computer technology also in OOPs concept, MySQL, C# as Major Programming Language. I have also worked on web Technologies such as HTML,CSS,Bootstrap and EF Core,Angular Framework, Rest APIs",
           color: "#0879bf",
         },
       ],
